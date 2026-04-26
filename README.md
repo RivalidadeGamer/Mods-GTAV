@@ -16,3 +16,5 @@ Certifique-se de ter o Script Hook V e o OpenIV instalados antes de prosseguir.
 
 ⚠️ Aviso Legal
 Uso Online: Não utilize estes mods no GTA Online. O uso de modificações em ambientes multiplayer pode resultar em banimento permanente. Utilize apenas no Modo História (Single Player).
+# 🤝 Contribuições
+Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request se encontrar algum bug ou tiver sugestões de melhoria!
